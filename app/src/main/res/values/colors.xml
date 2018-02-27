@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--常用的标准颜色分界线-->
+    <!-- 标准白-->
+    <color name="standard_white">#ffffff</color>
+    <!-- 标准黑 -->
+    <color name="standard_black">#333333</color>
+    <!-- 标准蓝 -->
+    <color name="standard_blue">#1188ee</color>
+    <!-- 标准橘色 -->
+    <color name="standard_organe">#ff7600</color>
+    <!-- 标准灰色 -->
+    <color name="standard_gray_one">#808080</color>
+    <!-- 标准灰色——淡 -->
+    <color name="standard_gray_two">#cccccc</color>
+    <!-- 标准灰色——更淡 -->
+    <color name="standard_gray_three">#e6e6e6</color>
+    <!-- 标准红 -->
+    <color name="standard_red">#ff0000</color>
+</resources>
