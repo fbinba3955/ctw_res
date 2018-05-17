@@ -28,7 +28,7 @@ publish {
     userOrg = 'fbinba3955'
     groupId = 'com.tts.ctwres'
     artifactId = 'ctw_res'
-    publishVersion = '1.0.5'
+    publishVersion = '1.0.4'
     desc = 'ctw res project'
     website = 'https://github.com/fbinba3955/ctw_res'
 }
